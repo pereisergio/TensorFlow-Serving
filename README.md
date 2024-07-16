@@ -1,1 +1,1 @@
-# TensorFlow-Serving
+# TensorFlow Serving integrado com RESTful API
